@@ -1,0 +1,2 @@
+[11-Dec-2017 15:40:42 asia/kolkata] PHP Notice:  Undefined index: change_password in /home/piedpexel/public_html/forgot-password/change_password.php on line 22
+[11-Dec-2017 15:40:42 asia/kolkata] PHP Notice:  Undefined index: code in /home/piedpexel/public_html/forgot-password/change_password.php on line 23

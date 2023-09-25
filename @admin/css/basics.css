@@ -1,0 +1,45 @@
+	.circle{
+				border:2px solid #EBECEE;
+				border-radius:100%;
+				height:100%;width:100%;
+				text-align:center;
+				
+			}
+			
+a
+{
+	text-decoration:none;
+	font-family:arial;
+	color:#55acee
+}
+
+.found{
+border:1px solid #e1e1e1}
+
+.avatar
+{
+    border-radius: 100%;
+	height:80px;
+	width:80px;
+	overflow: hidden;	
+}
+span 
+{
+	font-family:helvetica;
+	font-size:25px
+}
+
+.react_box{
+	width:100%;
+}
+
+.react_on_image
+{
+	border-radius:5px;
+	display: block;
+    margin: auto;
+    width: 100%;
+}
+.edit_td{
+	text-align:left
+}
